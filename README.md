@@ -1,5 +1,10 @@
 # P2P_test
- 
+Simple P2P system in python
+
+TODO
+- [x] Basic concept (connection, broadcast...)
+- [ ] Port management
+
 Libraries used:
 - socket for socket use
 - sys for input from the command line
