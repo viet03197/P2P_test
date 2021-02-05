@@ -4,6 +4,11 @@ Simple P2P system in python
 TODO
 - [x] Basic concept (connection, broadcast...)
 - [ ] Port management
+- [ ] Puzzle
+- [ ] Work
+- [ ] Data structure
+- [ ] Command Exchange
+- [ ] Comment the code
 
 Libraries used:
 - socket for socket use
